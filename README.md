@@ -18,7 +18,7 @@ This is what we'd like you to do while testing:
 
 1. Sign up at http://www.giftovus.com/
 1. During your first run through of the site, record your thoughts. What was difficult for you to do? What did you think was done well?
-1. Create an issue in GitHub [here](https://github.com/Giftovus/testing/issues/new) and title it, "General Thoughts - Tim", except using your name rather than Tim. Don't use your last name.
+1. Create an issue in GitHub [here](https://github.com/Giftovus/feedback/issues/new) and title it, "General Thoughts - Tim", except using your name rather than Tim. Don't use your last name.
 1. Create/join a few Groups, Ideas and Options. If you find anything annoying, put it in your General Thoughts issue. You can do this by clicking on your issue and adding a comment.
 1. If you find a bug, please create an issue for it. When creating a issue for a bug please be sure to include the following:
   *  The operating system you're using (Mac OS X, Windows 7, Ubuntu 12.04).
